@@ -1,6 +1,6 @@
 # git-test
 Testing Git
-Hola Yola
+Hola Yoli
 Edit 1 from origin 
 Edit 2 from eclipse
 Edit 3 from eclipse
